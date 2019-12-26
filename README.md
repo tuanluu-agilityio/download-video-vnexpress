@@ -1,5 +1,5 @@
-# download-video-vnexpress
-Download video from site news vnexpress.net
+# download-videos-vnexpress
+Download videos from site news vnexpress.net
 
 ### Install
 ```
